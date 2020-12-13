@@ -11,7 +11,7 @@
 @implementation LGGHehe
 
 - (void)hehe {
-    
+    NSLog(@"进行1.0.2的开发");
 }
 
 @end
