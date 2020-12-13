@@ -11,7 +11,7 @@
 @implementation LGGHahaView
 
 - (void)haha {
-    
+    NSLog(@"进行1.0.1的开发");
 }
 
 @end
