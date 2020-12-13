@@ -15,6 +15,7 @@
 		6710F9C61E8AA2F500561CD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6710F9C41E8AA2F500561CD7 /* LaunchScreen.storyboard */; };
 		677ACC0A25865F890090D577 /* LGGHahaView.m in Sources */ = {isa = PBXBuildFile; fileRef = 677ACC0925865F890090D577 /* LGGHahaView.m */; };
 		677ACC0E258663500090D577 /* LGGHehe.m in Sources */ = {isa = PBXBuildFile; fileRef = 677ACC0D258663500090D577 /* LGGHehe.m */; };
+		677ACC1725866DE20090D577 /* LGGBug.m in Sources */ = {isa = PBXBuildFile; fileRef = 677ACC1625866DE20090D577 /* LGGBug.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		677ACC0925865F890090D577 /* LGGHahaView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGGHahaView.m; sourceTree = "<group>"; };
 		677ACC0C258663500090D577 /* LGGHehe.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LGGHehe.h; sourceTree = "<group>"; };
 		677ACC0D258663500090D577 /* LGGHehe.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGGHehe.m; sourceTree = "<group>"; };
+		677ACC1525866DE20090D577 /* LGGBug.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LGGBug.h; sourceTree = "<group>"; };
+		677ACC1625866DE20090D577 /* LGGBug.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGGBug.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				677ACC0925865F890090D577 /* LGGHahaView.m */,
 				677ACC0C258663500090D577 /* LGGHehe.h */,
 				677ACC0D258663500090D577 /* LGGHehe.m */,
+				677ACC1525866DE20090D577 /* LGGBug.h */,
+				677ACC1625866DE20090D577 /* LGGBug.m */,
 				6710F9BF1E8AA2F500561CD7 /* Main.storyboard */,
 				6710F9C21E8AA2F500561CD7 /* Assets.xcassets */,
 				6710F9C41E8AA2F500561CD7 /* LaunchScreen.storyboard */,
@@ -162,6 +167,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6710F9BE1E8AA2F500561CD7 /* ViewController.m in Sources */,
+				677ACC1725866DE20090D577 /* LGGBug.m in Sources */,
 				6710F9BB1E8AA2F500561CD7 /* AppDelegate.m in Sources */,
 				677ACC0E258663500090D577 /* LGGHehe.m in Sources */,
 				6710F9B81E8AA2F500561CD7 /* main.m in Sources */,
