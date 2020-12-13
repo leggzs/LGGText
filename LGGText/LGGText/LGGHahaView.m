@@ -10,4 +10,8 @@
 
 @implementation LGGHahaView
 
+- (void)haha {
+    
+}
+
 @end
