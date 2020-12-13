@@ -10,4 +10,8 @@
 
 @implementation LGGHehe
 
+- (void)hehe {
+    
+}
+
 @end
