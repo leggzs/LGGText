@@ -17,6 +17,7 @@
 		677ACC0E258663500090D577 /* LGGHehe.m in Sources */ = {isa = PBXBuildFile; fileRef = 677ACC0D258663500090D577 /* LGGHehe.m */; };
 		677ACC1725866DE20090D577 /* LGGBug.m in Sources */ = {isa = PBXBuildFile; fileRef = 677ACC1625866DE20090D577 /* LGGBug.m */; };
 		67B161762587B62D000ED843 /* LGGTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = 67B161752587B62D000ED843 /* LGGTwo.m */; };
+		67B1617C2587B7B5000ED843 /* LGGThree.m in Sources */ = {isa = PBXBuildFile; fileRef = 67B1617B2587B7B5000ED843 /* LGGThree.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,8 @@
 		677ACC1625866DE20090D577 /* LGGBug.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGGBug.m; sourceTree = "<group>"; };
 		67B161742587B62D000ED843 /* LGGTwo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LGGTwo.h; sourceTree = "<group>"; };
 		67B161752587B62D000ED843 /* LGGTwo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGGTwo.m; sourceTree = "<group>"; };
+		67B1617A2587B7B5000ED843 /* LGGThree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LGGThree.h; sourceTree = "<group>"; };
+		67B1617B2587B7B5000ED843 /* LGGThree.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGGThree.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +85,8 @@
 				677ACC1625866DE20090D577 /* LGGBug.m */,
 				67B161742587B62D000ED843 /* LGGTwo.h */,
 				67B161752587B62D000ED843 /* LGGTwo.m */,
+				67B1617A2587B7B5000ED843 /* LGGThree.h */,
+				67B1617B2587B7B5000ED843 /* LGGThree.m */,
 				6710F9BF1E8AA2F500561CD7 /* Main.storyboard */,
 				6710F9C21E8AA2F500561CD7 /* Assets.xcassets */,
 				6710F9C41E8AA2F500561CD7 /* LaunchScreen.storyboard */,
@@ -178,6 +183,7 @@
 				67B161762587B62D000ED843 /* LGGTwo.m in Sources */,
 				6710F9B81E8AA2F500561CD7 /* main.m in Sources */,
 				677ACC0A25865F890090D577 /* LGGHahaView.m in Sources */,
+				67B1617C2587B7B5000ED843 /* LGGThree.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
