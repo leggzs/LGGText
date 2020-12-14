@@ -9,5 +9,8 @@
 #import "LGGTwo.h"
 
 @implementation LGGTwo
-
+- (void)hehe {
+    NSLog(@"2.0.0bugfix");
+    NSLog(@"2.0.0bugfix");
+}
 @end
