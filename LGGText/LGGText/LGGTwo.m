@@ -12,5 +12,7 @@
 - (void)hehe {
     NSLog(@"2.0.0bugfix");
     NSLog(@"2.0.0bugfix");
+    ///
+    NSLog(@"111111");
 }
 @end
