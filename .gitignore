@@ -58,9 +58,4 @@ fastlane/screenshots
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
-LGGThree.h
-LGGThree.m
-LGGHehe.h
-LGGHehe.m
-LGGBug.h
-LGGBug.m
+
